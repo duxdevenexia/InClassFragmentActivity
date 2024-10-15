@@ -22,3 +22,4 @@ class CustomRecyclerAdapter(private val items: IntArray) : RecyclerView.Adapter<
     override fun getItemCount() = items.size
 
 }
+
